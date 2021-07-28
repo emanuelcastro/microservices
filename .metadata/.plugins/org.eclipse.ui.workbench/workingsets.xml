@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
-<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627395976816_0" label="Java Main Sources" name="Java Main Sources"/>
-<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627395976825_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627395976816_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=spring-microservices-v2/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=spring-microservices-v2/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=spring-cloud-config-server/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=spring-cloud-config-server/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=restful-web-services/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=restful-web-services/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=restful-web-services/target\/generated-sources\/annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=currency-exchange-service/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=currency-exchange-service/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=currency-conversion-service/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=currency-conversion-service/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=naming-server/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=naming-server/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=api-gateway/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=api-gateway/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627395976825_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=spring-microservices-v2/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=spring-cloud-config-server/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=restful-web-services/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=restful-web-services/target\/generated-test-sources\/test-annotations" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=currency-exchange-service/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=currency-conversion-service/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=naming-server/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=api-gateway/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627397100529_3" label="currency-exchange" name="currency-exchange">
+<item elementID="=currency-exchange-service" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627397123201_4" label="restful-web-services" name="restful-web-services">
+<item elementID="=restful-web-services" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627397143577_5" label="spring-cloud-config" name="spring-cloud-config">
+<item elementID="=spring-cloud-config-server" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627397161553_6" label="spring-microservices-v2" name="spring-microservices-v2">
+<item elementID="=spring-microservices-v2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627409108589_7" label="currency-conversion-service" name="currency-conversion-service">
+<item elementID="=currency-conversion-service" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627413921577_9" label="naming-server" name="naming-server">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/naming-server" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627417907539_12" label="api-gateway" name="api-gateway">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/api-gateway" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627395978310_2" label="Window Working Set" name="Aggregate for window 1627395978310"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627409140173_8" label="Multiple Working Sets" name="Aggregate:currency-conversion-service:currency-exchange:">
+<workingSet IMemento.internal.id="currency-conversion-service"/>
+<workingSet IMemento.internal.id="currency-exchange"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627414744771_11" label="Multiple Working Sets" name="Aggregate:currency-conversion-service:currency-exchange:naming-server:">
+<workingSet IMemento.internal.id="currency-conversion-service"/>
+<workingSet IMemento.internal.id="currency-exchange"/>
+<workingSet IMemento.internal.id="naming-server"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1627417910470_13" label="Multiple Working Sets" name="Aggregate:api-gateway:currency-conversion-service:currency-exchange:naming-server:">
+<workingSet IMemento.internal.id="api-gateway"/>
+<workingSet IMemento.internal.id="currency-conversion-service"/>
+<workingSet IMemento.internal.id="currency-exchange"/>
+<workingSet IMemento.internal.id="naming-server"/>
+</workingSet>
+<mruList name="currency-exchange"/>
 </workingSetManager>
